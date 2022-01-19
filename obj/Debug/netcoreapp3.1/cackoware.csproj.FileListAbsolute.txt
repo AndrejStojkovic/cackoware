@@ -1,0 +1,17 @@
+D:\GitHubProjects\cackoware\bin\Debug\netcoreapp3.1\cackoware.exe
+D:\GitHubProjects\cackoware\bin\Debug\netcoreapp3.1\cackoware.deps.json
+D:\GitHubProjects\cackoware\bin\Debug\netcoreapp3.1\cackoware.runtimeconfig.json
+D:\GitHubProjects\cackoware\bin\Debug\netcoreapp3.1\cackoware.runtimeconfig.dev.json
+D:\GitHubProjects\cackoware\bin\Debug\netcoreapp3.1\cackoware.dll
+D:\GitHubProjects\cackoware\bin\Debug\netcoreapp3.1\cackoware.pdb
+D:\GitHubProjects\cackoware\obj\Debug\netcoreapp3.1\cackoware.csproj.AssemblyReference.cache
+D:\GitHubProjects\cackoware\obj\Debug\netcoreapp3.1\cackoware.Form1.resources
+D:\GitHubProjects\cackoware\obj\Debug\netcoreapp3.1\cackoware.Properties.Resources.resources
+D:\GitHubProjects\cackoware\obj\Debug\netcoreapp3.1\cackoware.csproj.GenerateResource.cache
+D:\GitHubProjects\cackoware\obj\Debug\netcoreapp3.1\cackoware.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProjects\cackoware\obj\Debug\netcoreapp3.1\cackoware.AssemblyInfoInputs.cache
+D:\GitHubProjects\cackoware\obj\Debug\netcoreapp3.1\cackoware.AssemblyInfo.cs
+D:\GitHubProjects\cackoware\obj\Debug\netcoreapp3.1\cackoware.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\cackoware\obj\Debug\netcoreapp3.1\cackoware.dll
+D:\GitHubProjects\cackoware\obj\Debug\netcoreapp3.1\cackoware.pdb
+D:\GitHubProjects\cackoware\obj\Debug\netcoreapp3.1\cackoware.genruntimeconfig.cache
